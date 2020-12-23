@@ -6,6 +6,6 @@ To run the code you need to append the variables in the terraform.tfvars
 
 # Following commands are required to run the stack 
 
-`< 1. terraform init # this will install the required plugins
-   2. terraform validate # to validate the code
-   3. terraform apply >`
+`<  terraform init # this will install the required plugins >`
+`<  terraform validate # to validate the code >`
+`<  terraform apply >` # to apply the code 
